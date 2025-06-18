@@ -1,8 +1,6 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration) [![Holidays](https://img.shields.io/github/v/release/bruxy70/Holidays.svg?1)](https://github.com/bruxy70/Holidays) ![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)
 
-## End of Support
-
-Home Assistant has introduced native holiday integration in the 2024.1 release. I have therefore ended developing this custom integration.
+Home Assistant has introduced native holiday integration in the 2024.1 release. The original developer ended support for this custom integration so I have forked it and fixed the current issues. The HA integration doesn't seem to offer the full list of public holidays like this integration does so I wanted to re-instate this one to allow people to do that.
 
 # Holidays
 
